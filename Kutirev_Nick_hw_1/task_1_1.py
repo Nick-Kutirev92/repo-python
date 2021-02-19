@@ -1,5 +1,5 @@
 # Пункты от a до c
-#
+
 user_answ = int(input('Введите кол-во секунд: '))
 
 hours = user_answ // 3600
