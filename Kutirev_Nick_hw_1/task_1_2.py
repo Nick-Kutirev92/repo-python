@@ -24,3 +24,4 @@ for i in new_list:
         result += sum
 
 print(result)
+#
